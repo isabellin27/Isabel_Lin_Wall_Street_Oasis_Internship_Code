@@ -25,9 +25,61 @@ How to use:
 
 5. View Results: The script will print a table showing the most frequent words from the scraped content that appear more than 10 times (this threshold can be adjusted in the filter_words_by_count function).
 
-Word                Count     
+Example Output
 ------------------------------
-income              52        
-revenue             23        
-earnings            15        
+Word                Count       
+------------------------------
+income              255       
+financial           104       
+modeling            72        
+tax                 66        
+revenue             63        
+view                62        
+business            51        
+courses             50        
+finance             46        
+personal            45        
+wso                 44        
+capital             43        
+net                 42        
+excel               38        
+analyst             37        
+earnings            37        
+money               36        
+resources           34        
+expenses            34        
+accounting          33        
+best                32        
+data                30        
+equity              29        
+management          29        
+banking             28        
+statement           27        
+private             27        
+training            26        
+markets             26        
+total               26        
+services            25        
+sales               25        
+taxes               25             
+investment          24        
+credit              24        
+interview           23        
+taxation            23        
+gross               22        
+interest            22        
+popular             21        
+course              21        
+valuation           21        
+businesses          21        
+corporate           20        
+free                20        
+amount              20        
+questions           19        
+fundamentals        19        
+company             18        
+bonds               18        
+wealth              18        
+taxable             18        
+rates               18              
 ...
